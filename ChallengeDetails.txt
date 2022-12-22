@@ -1,0 +1,21 @@
+**1. Song Catalog**
+
+Imagine that you need to create a music-player app.
+
+Create a class that can represent the structure of a song. The Song class must include these code elements:
+
+- Variables for the title, artist, year published, and play count
+- A variable/function that indicates whether the song is popular. If the play count is less than 1,000, consider it unpopular.
+- A function that prints a song description in this format:
+
+"[Title], performed by [artist], was released in [year published]."
+
+**2. Temperature Converter**
+
+In this case, there are three main temperature scales used in the world: Celsius, Fahrenheit, and Kelvin (You can also add Reamur if you want).
+
+Write a program that converts a temperature from one scale to another for these conditions (you can use dart input or not):
+
+- Celsius to Fahrenheit
+- Kelvin to Celsius
+- Fahrenheit to Kelvin
